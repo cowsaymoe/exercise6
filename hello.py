@@ -13,10 +13,10 @@ def hello():
     # print hello
     print("hello")
 
-    def goodbye():
-        """
-        Prints goodbye.
-        """
-        # print goodbye
-        print("goodbye")
+def goodbye():
+    """
+    Prints goodbye.
+    """
+    # print goodbye
+    print("goodbye")
 
